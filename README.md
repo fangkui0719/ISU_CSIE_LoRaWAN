@@ -1,14 +1,11 @@
-# ISU_CSIE_LoRaWAN
-題目：LoRaWAN 調適性數據傳輸速率演算法之改良
+# Introduction
 
-作者：邱方奎
+Title: The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
 
-指導教授：廖冠雄老師
+Author: Fang-Kuei Chiu (I-Shou University)
 
-Title：The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
-
-Author：Fang-Kuei Chiu
+Advisor: Dr. Guan-Hsiung Liaw
 
 # Reference
 
-LoRaSim：https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
+LoRaSim: https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
