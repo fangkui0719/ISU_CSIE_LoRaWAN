@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Title : The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
 
