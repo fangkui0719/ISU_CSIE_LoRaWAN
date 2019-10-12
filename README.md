@@ -2,7 +2,7 @@
 
 Title: The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
 
-Author: Fang-Kuei Chiu (I-Shou University)
+Student: Fang-Kuei Chiu 
 
 Advisor: Dr. Guan-Hsiung Liaw
 
@@ -15,9 +15,9 @@ Advisor: Dr. Guan-Hsiung Liaw
 Keywords： Internet of Things, Low-Power Wide-Area Network, LoRaWAN, Adaptive Data Rate, Spreading Factor
 
 
-# Simulator
+# Tool
 
-LoRaSim: https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
+Simulator: LoRaSim ( https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html )
 
 # Reference
 
