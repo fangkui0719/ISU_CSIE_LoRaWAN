@@ -6,6 +6,10 @@ Student : Fang-Kuei Chiu
 
 Advisor : Dr. Guan-Hsiung Liaw
 
+# Simulator
+
+LoRaSim : https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
+
 # Abstract
 
 　　LPWA (Low-Power Wide-Area) is a type of wireless communication technology for IoT (Internet of Things). These technologies can transmit data with low power, low cost and long range. Because of these attributes, LPWA technologies can be exploited in variety of applications, such as smart city, smart metering, agriculture, environmental monitoring, etc. With the progress of LPWA technologies, the number of nodes in the network will increase heavily and rapidly. It is important for how well these technologies will scale as the number of nodes grows.
@@ -13,11 +17,6 @@ Advisor : Dr. Guan-Hsiung Liaw
 　　In LoRaWAN, adaptive data rate (ADR) mechanism can improve the network capacity by adjusting the spreading factor (SF) to change the data rate. Recently, several studies have proposed some algorithms to optimize the ADR strategy and achieved the results better than basic ADR strategy in the simulation. However, most variants of ADR strategy only were evaluated in single-gateway sceranio. Few of them took multiple gateways into consideration. In multiple-gateway sceranio, the distance among different gateways will make the overlapping areas in the receiving range exist, and then affect the network performance. In this thesis, based on these variants of ADR strategy, several improved variants are proposed for multiple-gateway sceranio. They can effectively treat the end-devices located in the overlapping areas. The effectiveness of the proposed methods will be evaluated by simulations.
 
 Keywords： Internet of Things, Low-Power Wide-Area Network, LoRaWAN, Adaptive Data Rate, Spreading Factor
-
-
-# Simulator
-
-LoRaSim : https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
 
 # Reference
 
