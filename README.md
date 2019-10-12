@@ -6,13 +6,13 @@ Student : Fang-Kuei Chiu
 
 Advisor : Dr. Guan-Hsiung Liaw
 
-In this thesis, the variants (EXPLoRaMultiBS1, EXPLoRaMultiBS2, EXPLoRaMultiBS3, EXPLoRaMultiBS4) are modified based on EXPLoRa-AT and EXPLoRa-TS from the paper [33] and [34].
+In this thesis, the variants (EXPLoRaMultiBS1, EXPLoRaMultiBS2, EXPLoRaMultiBS3, EXPLoRaMultiBS4) are modified based on EXPLoRa-AT and EXPLoRa-TS from reference [33] and [34].
 
-# Simulator
+## Simulator
 
 LoRaSim : https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
 
-# Abstract
+## Abstract
 
 　　LPWA (Low-Power Wide-Area) is a type of wireless communication technology for IoT (Internet of Things). These technologies can transmit data with low power, low cost and long range. Because of these attributes, LPWA technologies can be exploited in variety of applications, such as smart city, smart metering, agriculture, environmental monitoring, etc. With the progress of LPWA technologies, the number of nodes in the network will increase heavily and rapidly. It is important for how well these technologies will scale as the number of nodes grows.
 
@@ -20,7 +20,7 @@ LoRaSim : https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
 
 Keywords： Internet of Things, Low-Power Wide-Area Network, LoRaWAN, Adaptive Data Rate, Spreading Factor
 
-# Reference
+## Reference
 
 [1]	L. Atzori, A. Iera, and G. Morabito, “The internet of things: A survey,” Comput. Netw., vol. 54, no. 15, pp. 2787–2805, 2010.
 
