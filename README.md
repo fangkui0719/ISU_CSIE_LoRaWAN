@@ -1,18 +1,18 @@
 # Introduction
 
-Thesis  : The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
+- Thesis  : The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
 
-Student : Fang-Kuei Chiu 
+- Student : Fang-Kuei Chiu 
 
-Advisor : Dr. Guan-Hsiung Liaw
+- Advisor : Dr. Guan-Hsiung Liaw
 
-In this thesis, the variants (EXPLoRaMultiBS1, EXPLoRaMultiBS2, EXPLoRaMultiBS3, EXPLoRaMultiBS4) are modified based on EXPLoRa-AT and EXPLoRa-TS from reference [33] and [34].
+- In this thesis, the variants (EXPLoRaMultiBS1, EXPLoRaMultiBS2, EXPLoRaMultiBS3, EXPLoRaMultiBS4) are modified based on EXPLoRa-AT and EXPLoRa-TS from reference [33] and [34].
 
-Simulator : LoRaSim ( https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html )
+- Simulator : LoRaSim ( https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html )
 
-Program language : Python
+- Program language : Python
 
-Compiler : Pycharm
+- Compiler : Pycharm
 
 # Abstract
 
