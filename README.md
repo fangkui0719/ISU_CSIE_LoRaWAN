@@ -12,6 +12,8 @@ Simulator : LoRaSim ( https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html )
 
 Program language : Python
 
+Compiler : Pycharm
+
 # Abstract
 
 　　LPWA (Low-Power Wide-Area) is a type of wireless communication technology for IoT (Internet of Things). These technologies can transmit data with low power, low cost and long range. Because of these attributes, LPWA technologies can be exploited in variety of applications, such as smart city, smart metering, agriculture, environmental monitoring, etc. With the progress of LPWA technologies, the number of nodes in the network will increase heavily and rapidly. It is important for how well these technologies will scale as the number of nodes grows.
