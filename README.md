@@ -1,6 +1,6 @@
 # Introduction
 
-Title : The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
+Thesis  : The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
 
 Student : Fang-Kuei Chiu 
 
