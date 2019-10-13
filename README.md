@@ -8,9 +8,7 @@ Advisor : Dr. Guan-Hsiung Liaw
 
 In this thesis, the variants (EXPLoRaMultiBS1, EXPLoRaMultiBS2, EXPLoRaMultiBS3, EXPLoRaMultiBS4) are modified based on EXPLoRa-AT and EXPLoRa-TS from reference [33] and [34].
 
-# Simulator
-
-LoRaSim : https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html
+Simulator : LoRaSim ( https://www.lancaster.ac.uk/scc/sites/lora/lorasim.html )
 
 # Abstract
 
