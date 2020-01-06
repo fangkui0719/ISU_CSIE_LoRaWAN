@@ -2,9 +2,9 @@
 
 - Thesis  : The Improvement of Adaptive Data Rate Algorithm for LoRaWAN
 
-- Student : Fang-Kuei Chiu 
+- Student : Fang-Kuei Chiu ( I-Shou University, Taiwan. )
 
-- Advisor : Dr. Guan-Hsiung Liaw
+- Advisor : Dr. Guan-Hsiung Liaw ( I-Shou University, Taiwan. )
 
 - In this thesis, the variants (EXPLoRaMultiBS1, EXPLoRaMultiBS2, EXPLoRaMultiBS3, EXPLoRaMultiBS4) are modified based on EXPLoRa-AT and EXPLoRa-TS from reference [33] and [34].
 
